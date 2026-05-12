@@ -1,0 +1,94 @@
+Waktu,Nama Barang,Jumlah,Unit satuan,Vendor,Client,Di Proses Oleh
+2024-04-02 15:00:00,Sendok komedi,5,box,Ahmadi,,
+2024-04-03 12:00:00,Helm anti tampan,10,box,Om Leo,,
+2024-04-04 16:00:00,Penanak Nasi Kuning,5,box,Gusti,,
+2024-04-05 09:00:00,Kaset MCR,8,box,Gerrard,,
+2024-04-06 11:00:00,Sendok komedi,-3,box,,Rinto,
+2024-04-07 15:00:00,Microphone bling bling,5,piece,Forma,,
+2024-04-08 12:00:00,Microphone bling bling,-2,piece,,Diggie,
+2024-04-09 15:00:00,Helm anti tampan,-2,box,,Diggie,
+2024-04-09 12:00:00,Penanak Nasi Kuning,-2,box,,,Rusli
+2024-04-09 12:00:00,Penanak Nasi Kuning,10,piece,,,Rusli
+2024-04-12 13:00:00,Microphone bling bling,-3,box,,Rinto,
+2024-04-13 10:00:00,Helm anti tampan,7,piece,Om Leo,,
+2024-04-14 13:00:00,Kaset MCR,-1,box,,,Winka
+2024-04-14 13:00:00,Kaset MCR,12,kaset,,,Winka
+2024-04-14 16:00:00,Helm anti tampan,-5,piece,,Winka,
+2024-04-14 16:00:00,Helm anti tampan,1,box,,Winka,
+2024-04-16 08:30:00,Gelas Kopi Premium,15,box,Sentosa,,
+2024-04-16 13:45:00,Piring Antik,8,box,Makmur Jaya,,
+2024-04-17 09:20:00,Sendok komedi,10,box,Ahmadi,,
+2024-04-17 14:30:00,Gelas Kopi Premium,-5,box,,Budi,
+2024-04-18 10:15:00,Kaset MCR,5,box,Gerrard,,
+2024-04-18 16:40:00,Helm anti tampan,-3,box,,Anita,
+2024-04-19 11:25:00,Piring Antik,-2,box,,Surya,
+2024-04-19 15:50:00,Gelas Kopi Premium,-3,box,,,Dimas
+2024-04-19 15:55:00,Gelas Kopi Premium,36,piece,,,Dimas
+2024-04-20 09:10:00,Mouse Gaming RGB,12,box,ElectroShop,,
+2024-04-21 13:30:00,Keyboard Mechanical,6,box,TechZone,,
+2024-04-22 10:45:00,Mouse Gaming RGB,-4,box,,GameStore,
+2024-04-22 14:20:00,Penanak Nasi Kuning,6,box,Gusti,,
+2024-04-23 09:30:00,Keyboard Mechanical,-2,box,,,Rudi
+2024-04-23 09:35:00,Keyboard Mechanical,20,piece,,,Rudi
+2024-04-24 11:15:00,Microphone bling bling,8,piece,Forma,,
+2024-04-25 14:40:00,Sendok komedi,-15,box,,Dewi,
+2024-04-26 10:55:00,Mouse Gaming RGB,-5,box,,TechHub,
+2024-04-27 13:15:00,Piring Antik,-4,box,,,Anton
+2024-04-27 13:20:00,Piring Antik,48,piece,,,Anton
+2024-04-28 08:15:00,Blender Multifungsi,10,box,ElektroMart,,
+2024-04-28 10:30:00,Mug Keramik Motif,20,box,Keramindo,,
+2024-04-28 14:45:00,Panci Anti Lengket,8,box,Kitchen Pro,,
+2024-04-29 09:20:00,Blender Multifungsi,-3,box,,RestoSupply,
+2024-04-29 11:35:00,Mouse Gaming RGB,15,box,TechImport,GameStore,
+2024-04-29 15:50:00,Headset Gaming,12,box,SoundTech,,
+2024-04-30 08:25:00,Mug Keramik Motif,-5,box,,CafeOne,
+2024-04-30 10:40:00,Headset Gaming,-4,box,,GameWorld,
+2024-04-30 13:55:00,Blender Multifungsi,-2,box,,,Joko
+2024-04-30 14:00:00,Blender Multifungsi,,piece,,,Joko
+2024-05-01 09:30:00,Power Bank 10000mAh,15,box,PowerTech,,
+2024-05-01 11:45:00,Sarung Bantal Premium,25,box,TextileMart,,
+2024-05-01 14:00:00,Panci Anti Lengket,-3,box,,DapurCafe,
+2024-05-02 08:15:00,Power Bank 10000mAh,-5,box,,PhoneShop,
+2024-05-02 10:30:00,Kacamata Anti Radiasi,18,box,OptikPro,,
+2024-05-02 13:45:00,Sarung Bantal Premium,-8,box,,HomeDecor,
+2024-05-03 09:00:00,Kacamata Anti Radiasi,-6,box,,OfficeOne,
+2024-05-03 11:15:00,Power Bank 10000mAh,-4,box,PowerTech,,Maria
+2024-05-03 11:20:00,Power Bank 10000mAh,16,piece,,,Maria
+2024-05-03 14:30:00,Sepatu Olahraga,30,box,SportyShop,,
+2024-05-04 08:45:00,Topi Baseball,24,box,FashionMart,,
+2024-05-04 11:00:00,Sepatu Olahraga,-7,box,,AtleteMall,
+2024-05-04 14:15:00,Kaos Polos Premium,40,box,ClothingPro,,
+2024-05-05 09:30:00,Topi Baseball,-6,box,,SunProtect,
+2024-05-05 11:45:00,Buku Agenda 2025,35,box,OfficeMart,,
+2024-05-05 15:00:00,Kaos Polos Premium,-12,box,,UniformShop,
+2024-05-06 08:15:00,Buku Agenda 2025,-8,box,,,Hendra
+2024-05-06 08:20:00,Buku Agenda 2025,80,piece,,,Hendra
+2024-05-06 10:30:00,Termos Air Panas,15,box,KitchenWare,,
+2024-05-06 13:45:00,Botol Minum Infuser,25,box,HealthyLife,,
+2024-05-07 09:00:00,Termos Air Panas,-4,box,,OutdoorShop,
+2024-05-07 11:15:00,Botol Minum Infuser,-8,box,,GymStore,
+2024-05-07 14:30:00,Lampu Belajar LED,-20,box,LightPro,,
+2024-05-08 08:45:00,Termos Air Panas,-3,box,,,Dani
+2024-05-08 08:50:00,Termos Air Panas,15,piece,,,Dani
+2024-05-08 11:00:00,Speaker Bluetooth Mini,18,box,SoundGear,,
+2024-05-08 14:15:00,Lampu Belajar LED,-6,box,,StudyRoom,
+2024-05-09 09:30:00,Dompet Kulit Asli,12,box,LeatherCraft,,
+2024-05-09 11:45:00,Speaker Bluetooth Mini,-5,box,,MusicShop,
+2024-05-09 15:00:00,Dompet Kulit Asli,-3,box,,GiftShop,
+2024-05-10 08:15:00,Flash Drive 64GB,30,box,DataStore,,
+2024-05-10 10:30:00,Jam Dinding Modern,16,box,TimeKeeper,,
+2024-05-10 13:45:00,Flash Drive 64GB,-10,box,,ComputerMall,
+2024-05-11 09:00:00,Jam Dinding Modern,-4,box,,,Ratna
+2024-05-11 09:05:00,Jam Dinding Modern,20,piece,,,Ratna
+2024-05-11 11:15:00,Payung Lipat Otomatis,24,box,RainProtect,,
+2024-05-11 14:30:00,Flash Drive 64GB,-8,box,,OfficeMart,
+2024-05-12 08:45:00,Payung Lipat Otomatis,-7,box,,TravelStore,
+2024-05-12 11:00:00,Koper Cabin Size,10,box,TravelGear,,
+2024-05-12 14:15:00,Selimut Microfiber,15,box,CozyHome,,
+2024-05-13 09:30:00,Koper Cabin Size,-3,box,,TourismShop,
+2024-05-13 11:45:00,Selimut Microfiber,-5,box,,BedStore,
+2024-05-13 15:00:00,Payung Lipat Otomatis,-6,box,,,Budi
+2024-05-13 15:05:00,Payung Lipat Otomatis,30,piece,,,Budi
+2024-05-14 08:15:00,Standing Fan,8,box,CoolBreeze,,
+2024-05-14 10:30:00,Rice Cooker Digital,12,box,KitchenTech,,
+2024-05-14 13:45:00,Standing Fan,-2,box,,HomeAppliance,
