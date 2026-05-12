@@ -26,12 +26,11 @@ Andi ingin membangun sistem manajemen gudang untuk melacak alur barang dari vend
         * jumlah barang dikirim per hari. 
         * Bisa difilter berdasarkan vendor, warehouse manager, maupun client
 
-## Soal 
 1. Buatkan ER Diagram untuk sistem database yang dibutuhkan oleh Andi
 2. Buatlah database menggunakan PostgreSQL berdasarkan ER Diagram anda
 3. Buatlah SQL Query untuk menampilkan apa yang dibutuhkan Andi
 4. Buatlah SQL Query untuk memasukan data berdasarkan dari csv yang sudah diberikan 
-    - [OPTIONAL] sertakan transaction 
+    - sertakan transaction 
 5. Sebutkan anomali-anomali data yang ada di data tersebut dan cara anda untuk memperbaiki data tersebut
 6. Buatlah SQL Query untuk mengubah data:
     - ubah nama barang "Termos Air Panas" jadi "Termos Air Atau Bukan Yaa?"
@@ -39,16 +38,6 @@ Andi ingin membangun sistem manajemen gudang untuk melacak alur barang dari vend
     - hapus data client Gusti
     - hapus data vendor RestoSupply
     - hapus data manager Rusli
-
-[OPTIONAL]
-
 7. buatlah visualisasi statistik pelaporan harian
 8. buatlah program untuk bulk insert ke sistem memakai CSV
 9. buatlah program yang dapat memvisualisasikan apa yang dibutuhkan Andi (table, statistik, dan filtering) [VIEW ONLY]
-
-## Important Note
-- Kumpulkan kedalam 1 private repository github lalu invite (`kamil5b`,`justarya`) kedalam repository anda
-- Ketentutan menjawab ada di README di masing masing folder jawaban
-- Kirim link github repository anda ke HR
-
-Semangat menjawab dan sukses!xxx
